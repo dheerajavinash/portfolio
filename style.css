@@ -152,6 +152,12 @@ justify-content:center;
 flex-wrap:wrap;
 }
 
+.cert-container{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+}
+
 .cert-card{
 width:260px;
 padding:20px;
@@ -165,6 +171,7 @@ transition:0.3s;
 .cert-card:hover{
 transform:translateY(-8px);
 }
+
 
 
 
