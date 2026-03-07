@@ -94,17 +94,12 @@ section{
 
 .btn2{
     padding:12px 25px;
-    background:#ff7a18;
+    background:#007bff;
     color:white;
-    border:none;
     text-decoration:none;
-    border-radius:6px;
-    font-weight:500;
+    margin-right:10px;
 }
 
-.btn2:hover{
-    background:#ff5e00;
-}
 
 /* Skills */
 
@@ -179,6 +174,7 @@ transition:0.3s;
 .cert-card:hover{
 transform:translateY(-8px);
 }
+
 
 
 
